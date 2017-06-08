@@ -3,6 +3,6 @@
 Add the factory in the faces-config.xml:
 <factory>
       <view-declaration-language-factory>
-        com.daimler.afab.jsf.exception.VdlLoggerFactory
+        com.ejemplo.VdlLoggerFactory
       </view-declaration-language-factory>
   </factory>
